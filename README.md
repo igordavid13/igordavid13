@@ -16,9 +16,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work" alt="Typing SVG">
 </a>
-
-<h3 align="left">Connect with me</h3>
 -->
+<h3 align="left">Connect with me</h3>
+
 <!-- Contatos -->
 <a href="mailto:igordavid13@gmail.com">
   <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail">
